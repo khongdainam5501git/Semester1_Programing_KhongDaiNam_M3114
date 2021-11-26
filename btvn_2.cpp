@@ -2,6 +2,7 @@
  using namespace  std;
 
  int main(){
+     printf("hihi");
      int n, a, b;
      float x;
      cin >> n >> a >> b;
